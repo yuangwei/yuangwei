@@ -8,4 +8,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuangwei&layout=compact&hide=html&title_color=6F90B5)](https://github.com/yuangwei)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuangwei&layout=compact&count_private=true&hide=html&title_color=6F90B5)](https://github.com/yuangwei)
